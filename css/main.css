@@ -14,15 +14,20 @@ header, footer{
     border-radius:30px; 
     padding: 0.6rem;  
     margin: 0.6rem;
-    background-image: linear-gradient(to left, red,orange,yellow,green,blue,indigo,violet);
+    background-image: linear-gradient(to left, violet, indigo,blue, green, yellow, orange, red);
 }
 h1{ 
     color:black; 
     font-variant:  small-caps; 
 }
-h2{  
-    color:orange; 
+h3{  
+    color:black; 
     font-variant:  small-caps;
+}
+
+h4{
+    color:antiquewhite; 
+    font-variant:  small-caps; 
 }
 
 section
@@ -61,7 +66,7 @@ aside ul{
 }
 aside ul a{  
     text-decoration: none;   
-    color:green;  
+    color: white;  
 }
 aside ul a:hover{  
     color: orange;  
